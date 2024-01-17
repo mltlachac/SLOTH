@@ -1,2 +1,2 @@
 # SLOTH
-Materials for paper
+This repository will be populated upon paper publication.
