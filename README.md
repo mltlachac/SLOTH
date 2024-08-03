@@ -17,7 +17,11 @@ ML Tlachac, Michael Heinz, Miranda Reisch, and Samuel S. Ogden. "Symptom Detecti
 ```
 Paper is available at: https://dl.acm.org/doi/abs/10.1145/3643554
 
-The DepreST-CAT dataset is available at: https://github.com/mltlachac/DepreST-CAT
+## DepreST-CAT Dataset
+
+ML Tlachac, Ricardo Flores, Miranda Reisch, Katie Houskeeper, and Elke A. Rundensteiner. "DepreST-CAT: Retrospective smartphone call and text logs collected during the covid-19 pandemic to screen for mental illnesses." Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 6, no. 2 (2022): 1-32.
+* Paper: https://dl.acm.org/doi/abs/10.1145/3534596
+* Data and Code: https://github.com/mltlachac/DepreST-CAT
 
 ## Prior Research with Reply Latency
 
