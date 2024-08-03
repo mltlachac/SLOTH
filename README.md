@@ -18,3 +18,13 @@ ML Tlachac, Michael Heinz, Miranda Reisch, and Samuel S. Ogden. "Symptom Detecti
 Paper is available at: https://dl.acm.org/doi/abs/10.1145/3643554
 
 The DepreST-CAT dataset is available at: https://github.com/mltlachac/DepreST-CAT
+
+## Prior Research with Reply Latency
+
+ML Tlachac and Samuel S. Ogden. "Left on read: Reply latency for anxiety & depression screening." In Adjunct Proceedings of the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2022 ACM International Symposium on Wearable Computers, pp. 500-502. 2022. 
+* Paper: https://dl.acm.org/doi/abs/10.1145/3544793.3563429
+* Code: https://github.com/mltlachac/UbiComp2022
+
+ML Tlachac and Elke A. Rundensteiner. "Depression screening from text message reply latency." In 2020 42nd annual international conference of the IEEE engineering in medicine & biology society (EMBC), pp. 5490-5493. IEEE, 2020.
+* Paper: https://ieeexplore.ieee.org/abstract/document/9175690
+* Code: https://github.com/mltlachac/EMBC2020
